@@ -2,6 +2,7 @@
 
 This repository contains code to predict snow occurrence using an ARIMA model on historical weather data. 
 The steps involve data preparation, model fitting, forecasting, and snow prediction based on temperature thresholds.
+The data is the public data available on bigquery.
 
 **Description**
 The code performs the following tasks:
